@@ -10,6 +10,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyer0705&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 #### 🤔 언어 사용량 통계 (Most Used Languages) 🤔
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=c%2B%2B&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+#### ☎️ 연락 (Contact) ☎️
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:hyer1205@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div>
 <!--
 **hyer0705/hyer0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
